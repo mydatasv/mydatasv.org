@@ -1,0 +1,61 @@
+MyData Silicon Valley Hub Meeting
+
+March 14ht 2019, 12 pm, Third meeting.
+
+NODE
+1011 Kearny St, San Francisco, CA 94133
+San Francisco,
+
+Attendants
+
+Sari Stenfors
+Seth Goldstein
+Johannes Ernst
+Josep A. Aliagas
+
+Could not join us but attended to previous 2 meetings: Bastian Greshake
+
+We start with eachother’s introductions. Check profiles here:
+
+https://www.linkedin.com/in/sari-stenfors/
+https://www.linkedin.com/in/sethg/
+https://www.linkedin.com/in/jernst/
+https://www.linkedin.com/in/aliagas/
+https://www.linkedin.com/in/bastian-greshake-11194840/
+
+Once the introductions were made, I explained that the meeting with MyData global was finally held on the 12th of March. The meeting was with Sille from MyData Global and Wilhelm from MyData London’s hub. The meeting lasted 1 ½ hour and the conclusion was that we would be probably given the green light for the creation of Silicon Valley’s hub in the following board on March 15th.
+
+We proceeded to explain each other's points of view of which should be MyData SV’s objectives and how we should fund the organization so that it truly has an impact not only in our community but globally. We talked about Surveillance capitalism, self-sovereign identity, GDPR, open data, and other concepts.
+
+We discuss whether people understand or not MyData. We debate if people would pay more attention to MyAi name instead of MyData. We also talk about whether we need to be seen as a “positive platform”. This term gets people excited and can help us get Government Funding but on the other side, we can raise concerns about which are the “negative” ones.
+
+We raise the idea of initially funding the organization by approaching those companies that have been careless with people’s data. They would be more sensitive to our organization as they need to “repair the damage”. At the same time, we need to be careful not to “shame” anyone and make everybody feel inclusive.
+
+We talked about 3 ideas that could make people be aware of the importance of their own data:
+first one is the use of fear, fear of being controlled, being manipulated
+the second one the use that companies do of data to generate addiction, they use algorithms to tell us what we need and what we don’t.
+and the third one that companies are making use of people’s data to make money.
+
+We agree that fear is not the right way to approach, that people will not care about the 10USD that could make of their own data, and that companies are trying to generate addiction.
+
+We agree that we need to approach people in a positive way.
+
+MAIN IDEAS AND CONCLUSIONS:
+
+1.- We should create a map of the different organizations protecting people’s data currently.
+
+2.- The current financial system brings us to the current situation.
+
+VC equation: Growth at any cost/acquisition/monetization/shareholders first = Data privacy is not a priority
+
+3.- We should try to build a different VC philosophy. People first. We should create a VC or Fund or Accelerator that invests only in companies that take care of people’s privacy. For sure they will be less profitable in the short term. Wall Street will pay less for these companies but we need to make this the “new normal”
+
+4.- Governments are really worried because they are losing power, influence, and resources. Platforms are more powerful and pay fewer taxes. Governments will invest in VCs with this new philosophy.
+
+5.- MyData should be the “Clean Data vs Dirty Data” creditor. But would we have the “guts” to point the bad actors? MyData should be a kind of “intel inside” label. We need to become a MEME such as #GDPR or #Metoo.
+
+6.- We should create a Fund to develop this “clean” ecosystem. MyData SV should be a “clean organic self-sovereign data labeling center for emerging companies, we should connect “clean entrepreneurs” with “clean capital”.  We should attract “indie” entrepreneurs and VCs. We should be able to create a new ecosystem built upon “non-surveillance” paradigm. We should empower the new generation of companies.
+
+7.- We agree on meeting the very second Thursday of every month at Node at noon.
+
+

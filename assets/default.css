@@ -1,0 +1,25 @@
+body, input, textarea, select {
+    font-family: "Montserrat", "Arial", "Sans-Serif";
+}
+body {
+    width: 960px;
+    margin: 10px auto;
+}
+
+div.header img {
+    float: left;
+    margin-right: 30px;
+}
+div.header h1 {
+    padding-top: 50px;
+}
+
+div.main {
+    clear: both;
+    margin-top: 100px;
+}
+
+dt {
+    font-weight: 600;
+    margin: 20px 0;
+}
