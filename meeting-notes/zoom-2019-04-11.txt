@@ -1,0 +1,43 @@
+MyData Silicon Valley Hub Meeting
+
+April 11 2019, 12 pm
+
+Mostly in cyberspace through Zoom
+
+Attendants
+
+Ben Creasy
+Sari Stenfors
+Johannes Ernst
+
+Agenda:
+* Operations
+* Website
+* Social network profile
+* Registration
+* Members and Sponsors
+* Money handling
+* Legal entity
+
+MyData Global has an "Annual OKR cycle". We might want to get our plan together and get it
+inserted into when the next cycle starts in October.
+
+Continuation of the discussion from last time: how possible is it for us, or anybody, to
+create an accelerator for MyData-aligned startup companies.
+
+Accelerator can be step 3 or 300 of what we do ... we can do one step at a time.
+
+We need the right people to get excited, and for that we need a business plan-pitch.
+
+How do we even reach out to the right startups? Could host events of interest to startups
+of the type we are looking to attract. E.g. "How do I make my startup GDPR compliant?"
+
+Action items:
+* Setting up a mailing-announcement list. Johannes
+* zoom link for meetings. Sari
+* writing a git hub document that has a plan of what we are doing in this hub. Sari writes something,
+  Johannes will set up and invite everybody as a reviewer. 
+* create a list of topics that are of interest to MyData related ideas, such as GDPR, and create
+  events on the topics.
+* website: startups that are somewhat aligned, free software society, wikimedia etc.
+
