@@ -22,4 +22,15 @@ div.main {
 dt {
     font-weight: 600;
     margin: 20px 0;
+    clear: both;
+}
+
+div.events {
+    padding: 20px;
+    background: #f0f0f0;
+    border: 1px solid #e0e0e0;
+}
+
+.new {
+    color: #ff4040;
 }
