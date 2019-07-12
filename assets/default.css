@@ -25,6 +25,19 @@ dt {
     clear: both;
 }
 
+td {
+    vertical-align: top;
+    padding: 8px;
+}
+
+ul {
+   margin: 0;
+}
+
+li {
+   padding: 8px;
+}
+
 div.events {
     padding: 20px;
     background: #f0f0f0;
