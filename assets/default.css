@@ -30,22 +30,26 @@ td {
     padding: 8px;
 }
 
-ul {
-   margin: 0;
-   padding: 0 0 0 16px;
-}
-
-li {
-   padding: 8px 0;
-   margin: 0;
-}
-
 div.events {
     padding: 20px;
     background: #f0f0f0;
     border: 1px solid #e0e0e0;
 }
 
+div.events ul {
+   margin: 0;
+   padding: 0 0 0 16px;
+}
+
+div.events li {
+   padding: 8px 0;
+   margin: 0;
+}
+
 .new {
     color: #ff4040;
+}
+
+div#groupsio_embed_signup {
+    margin: 16px 0;
 }
