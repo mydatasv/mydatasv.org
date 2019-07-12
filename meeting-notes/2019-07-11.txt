@@ -1,0 +1,79 @@
+Minutes for July 11, 2019. 7th meeting.
+
+500Startups, 814 Mission Street, San Francisco
+
+Attendants:
+
+Sari Stenfors  (remote)
+Ben Creasy
+Soren Jorgensen
+Mark Son-Bell
+Johannes Ernst
+Josep A. Aliagas
+
+2 main points on the agenda today:
+
+1. Upcoming event organizing. Who will present what in the meeting? Plan for the meeting.
+What else is needed? who talks and when?
+who is coming?
+who is responsible of what?
+marketing plan for the event. Who does what?
+
+2. How do we get Silicon Valley hub going... in other ways than the meet-up? How do
+we get some initial sponsor money?
+
+1.- Event on the 16th of July
+
+We have decided how shall we structure the event, Seth should first introduce himself
+as our member and sponsor for this first event.  Sari will give a 10-15 min presentation
+about My Data Global and its objectives, and the rest of us will talk about different
+issues for 5 minutes such as GDRP, Data in Health... Johannes will share the final
+structure of everybody’s speech in order to add a structure and publish it on Meetup,
+Eventbrite and on our own social networks, by tomorrow. Marc and Soren, will talk to
+Government related speakers from California and Denmark to see if we can have their
+presence on Tuesday.
+
+We will then let people introduce themselves and we will do as much networking and try
+to enroll more people in our Hub, Slack Channels and into Helsinki’s conference in September.
+
+2.-  About the Hub:
+
+We agree on start working with big corporations, Non goverment agencies, and
+government-related agencies in order to let them know about us. The goal, to create a
+lobby and start getting their attention and engagement. We have created a slack
+channel called outreach to start working on this specific issue.
+
+We agree on working with Startups and try to become a reference for the Startups
+related with MyData principles. Still need to decide how.
+
+We need money for little and big things. Need to find out from whom can we get it.
+We will mention the “sponsorship” possibility in our next event.
+
+We need to learn from the Japan Hub how to make ourselves more relevant. Sari
+is scheduling a call with them on July 18th, but need to be confirmed yet.
+
+We need to work on specific topics for future events, such as: scamming, GDPR
+pro’s and con’s, human rights, data banking
+
+We need to start working on a blog where we upload all the info that we generate,
+presentations, videos… and we need to ask for help to HQs to see if they can do the
+publishing, editing…
+
+Next meeting August 8th, that’s the 2nd Thursday of August
+
+Action items:
+ * Johannes to revise event description, publish draft to Slack
+ * All: provide change requests to event description by end of day Thursday
+ * All: publish event to Eventbrite, Facebook, Meetup etc Friday morning
+ * All: notify their personal networks of the event on Friday
+ * Sari find poster for Josep to print
+ * Sari get welcoming message from MyData leadership
+ * Sari check from Seth that we have a projector
+ * Sari bring chips to meeting
+ * Mark: talk to staffer of Berkeley rep to see whether interest to do 5-min talk on legislative situation of personal data in CA
+ * Søren: put together some sort of a summary of the meetup that can be used as a blog
+ * All talking: provide slides or written summary of your talk
+ * Sari figure out if MyData has a blog that we could send content to
+ * Søren: find Danish rep for possible talk
+ * Johannes: create sign-up sheet and bring on Tuesday
+ * Josep to cover how to join MyData SV, our programs, and call for sponsors in his talk
