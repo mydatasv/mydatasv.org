@@ -1,0 +1,43 @@
+Minutes for October 10th, 2019. 10th meeting.
+500Startups, 814 Mission Street, San Francisco
+
+Attendants:
+
+Mark Son-Bell
+Johannes Ernst
+Josep A. Aliagas
+
+Main points today:
+
+1. Board elections
+
+We agreed on our hub presenting a candidate to the Board of My Data. In case there’s no
+one willing to become a candidate, Mark Son-Bell offered himself to participate as our
+candidate. Our hub needs to have representation as Silicon Valley plays a key role in
+the personal data industry, and we need to be part of this key role by having a board
+member in the global organisation. Only by having a board member we will be taken
+seriously by the big companies in Silicon Valley when we approach them.
+
+2. IIW.
+
+We talked about the interesting conferences and meetings that were held during the IIW
+(Internet Identity Workshop) held in Mountain View the first week of October.
+
+ 3. Me2B
+
+Johannes explained to us how the Me2B community (he is also one of the founders there)
+is creating some groups and a small fund to help people and companies develop some
+self-sovereign identity related projects such as creating some legal sfuff to be shared
+with politicians in order to prepare a federal law, or a “wikipedia” for tech products
+that are using personal data. We talked about the possibility of joining forces with
+Me2B. We are working in the same area, but they are a bigger organisation in Silicon
+Valley but smaller on a global scale.
+
+
+4. Helsinki Conference
+
+Unfortunately none of the attendants to this monthly meeting had the chance to be in
+Helsinki. All the information will be available on Slack in a few days based on what
+is being posted by the organisers.
+
+
