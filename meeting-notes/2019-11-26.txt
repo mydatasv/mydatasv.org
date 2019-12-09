@@ -1,0 +1,94 @@
+Minutes for November 26, 2019. 11th meeting.
+500Startups, 814 Mission Street, San Francisco
+
+Attendants:
+
+* Mark Son-Bell
+* Johannes Ernst
+* Josep A. Aliagas
+* Kaliya Young (identity woman)
+
+Remote attendants:
+
+* Sari Stenfors
+* Kathy Giori
+
+Agenda:
+
+1.- Elections Result
+
+Our Hub did not get any representative in any of the available positions. From our Hub we
+congratulate all the board and steering group members. Josep showed his personal concern
+and added that “This was really disappointing. It’s difficult to understand and really
+discouraging from my personal point of view how a global organisation like MyData has not
+had the vision to choose any representative in the most critical area in the world regarding
+personal data, as Silicon Valley.” We all think it’s a pity but we need to keep working.
+
+2.- Fund Raising, the role of our organisation and Race-To-The-Top (RTTT)
+
+We are contacting with several actors in the FundRaising industry who are starting to
+coordinate the creation of a group of investors which investment thesis is similar to our
+principles. We agreed on working with RTTT in creating the ecosystem.
+
+Sari mentioned that one of his contacts was in the last meeting in NY and would provide
+some feedback on what was discussed there.
+
+Our colleague Soren is also organising some events at Stanford University. Another
+colleague, Seth, is already working on his own project and already raised funds, so it
+looks like things are starting to ramp up.
+
+People are already talking about a so called Privacy-tech category. Our Hub should be
+active in this field and we are thinking of ways to do that.
+
+One of the participants says that MyData Global is working on the MyData certification
+programs. We discussed whether to have our own organisation certification or not. Me2B
+is already working on that. The difference is that MyData will certify people, while
+Me2B certifies products
+
+We propose different ways of making ourselves visibles such us do matchmaking events.
+Also one of us proposals that we should talk to Pension Funds so that they start thinking
+of allocating their funds into companies that are respectful with data.
+
+Kathy offers us the possibility of reaching more people through Mozilla and open innovation.
+
+Finally we discuss about Contract for the Web that gets a lot of press but it’s not inclusive.
+
+3.- ANG:
+
+A New Government (ANG)  is a process that is starting in Europe. We consider that this is
+not interesting for the US market as there are many standards already here and we don’t
+need another one.
+
+4.- Connectathlon
+
+Mark is working in a map that shows how the Green Internet should work. He says he is
+working on creating a real demo to show all the agents how it works, and how a GDPR
+compliance process would work on the Green internet. He would be open to pitch his proposal
+to the right audience. SSI Incubator is preparing a demo day of their new batch on
+December 12th.
+
+5.- JFK/Conference
+
+We should organize an big event and start generating some noise. We should leverage on the
+Unconference and try to do ours right after or before. We should be able to create a group
+of angel investors, or VCs and connect investors with startups. We should talk to existing
+entrepreneurs to understand how they raised money, and try to get the first money in for
+”our“ startups.
+
+We could get some traction from Sacramento and Oakland privacy groups which seem to be
+pretty active. They track every surveillance company and check which are ready for the
+CCPA starting in January.
+
+We should organize events both in East and West Coast. Johannes mentions that we could get
+some sponsorship from Me2B. We propose to organize our first conference during the last
+week of October 2020. We will check availability in the Computer Museum. In this conference
+we should have at least 3 perspectives, Government, People’s, and Startus+Investors.
+Previously we will try to organize an Investor conference around 28-30 of April.
+We agree on having a monothematic meeting regarding this event.
+
+6.- NFDR
+
+This is an organisation in Malaysia that is creating a framework for press digital rights,
+SSI, data lockers and all kind of tools to protect rights. It is lead by the IO foundation
+in Malaysia. We should talk to them and find out more.
+
